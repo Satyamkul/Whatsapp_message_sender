@@ -12,7 +12,7 @@ print("Running")
 # For loop
 for i in range(100):
     # Writing the message
-    pg.write("Chl be lodu")
+    pg.write("Enter your message")
     time.sleep(0.5)
     # Sending the message by pressing enter
     pg.press("enter")
